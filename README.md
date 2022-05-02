@@ -1,4 +1,4 @@
-<h1><center><b> Simple Blog app with laravel 9 </b></center></h1>
+<h1><center><b> Simple LMS app with laravel 9 </b></center></h1>
 
 <h3>Used</h3>
 <ul type="disc">
